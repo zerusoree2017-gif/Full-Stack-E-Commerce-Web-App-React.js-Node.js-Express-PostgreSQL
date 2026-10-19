@@ -17,7 +17,7 @@ A clean storefront for browsing products, exploring categories, searching for it
 
 ### 2. Shopping Cart & Checkout
 
-![Shopping cart and checkout interface](./screenshots/checkout.png)
+![Shopping Cart & Checkout Experience](Shopping%20Cart%20%26%20Checkout%20Experience.png)
 
 A user-friendly shopping workflow for reviewing products, updating quantities, checking order totals, and proceeding through checkout.
 
