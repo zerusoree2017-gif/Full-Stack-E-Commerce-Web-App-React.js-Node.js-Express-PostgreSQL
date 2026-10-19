@@ -72,7 +72,7 @@ Interested in working together on a web application or e-commerce project?
 
 Let's connect and discuss your requirements.
 
-- **GitHub:** [Your GitHub Profile]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **LinkedIn:** www.linkedin.com/in/zerihun-abera13
+-**Upwork:** https://www.upwork.com/freelancers/~010472b5935fc59690    
 
 #ReactJS #NodeJS #ExpressJS #PostgreSQL #FullStackDevelopment
