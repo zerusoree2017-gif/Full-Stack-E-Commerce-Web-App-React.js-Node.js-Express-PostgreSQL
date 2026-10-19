@@ -23,7 +23,7 @@ A user-friendly shopping workflow for reviewing products, updating quantities, c
 
 ### 3. Admin Dashboard & Order Management
 
-![E-commerce admin dashboard](./screenshots/admin-dashboard.png)
+![Admin Dashboard & Order Management](Admin%20Dashboard%20%26%20Order%20Management.png)
 
 An organized dashboard for managing products, reviewing orders, and monitoring store information.
 
