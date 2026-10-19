@@ -11,7 +11,7 @@ My goal was to build a practical application that demonstrates the skills needed
 
 ### 1. Responsive Storefront & Product Discovery
 
-![Responsive e-commerce storefront](./screenshots/storefront.png)
+![Modern Storefront & Product Discovery](Modern%20Storefront%20%26%20Product%20Discovery.png)
 
 A clean storefront for browsing products, exploring categories, searching for items, and viewing product details.
 
